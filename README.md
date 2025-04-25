@@ -7,13 +7,13 @@
 
 Here are some ideas to get you started:-->
 
-![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 eu estou trabalhando como jovem aprendiz
+<h3>- 🔭 eu estou trabalhando como jovem aprendiz
 - 🌱 eu ainda nao tenho exeriencia trabalhista co codigos mais a linguagem que eu mais gostei de apender foi php
 - 👯 estou pensando em comear a trabalhar pelo php
 - 🤔 I’m looking for help with ...
 - 💬 pode me pergunta sobre meus hobbies 
 - 📫 pode me contatar pelo celular 
 - ⚡ Fun fact: ...
-
+</h3>
